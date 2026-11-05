@@ -6,7 +6,7 @@
 
 **Your AI game studio.** Every game idea on one roster, a second brain that Claude Code reads, and a live view of Claude working on your games.
 
-<a href="https://github.com/iveezor/Lucid-Environment/releases/latest"><img src="https://img.shields.io/github/v/release/iveezor/Lucid-Environment?label=download&style=for-the-badge&color=00E5FF&labelColor=0A0A0F" alt="Download the latest release" /></a>
+<a href="https://github.com/iveezor/Lucid-Environment/releases/latest"><img src="https://img.shields.io/github/v/release/iveezor/Lucid-Environment?label=download&style=for-the-badge&color=00E5FF&labelColor=0A0A0F&cacheSeconds=300" alt="Download the latest release" /></a>
 <img src="https://img.shields.io/badge/Windows-0A0A0F?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 <img src="https://img.shields.io/badge/Ubuntu-0A0A0F?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
 <img src="https://img.shields.io/badge/macOS-0A0A0F?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
